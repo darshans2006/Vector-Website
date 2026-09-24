@@ -14,7 +14,7 @@ const Footer = () => (
           </div>
           <p className="footer-desc">
             District Editorial Workshop<br />
-            September 6, 2026<br />
+            September 26, 2026<br />
             Sri Shakthi Institute of Engineering and Technology
           </p>
         </div>

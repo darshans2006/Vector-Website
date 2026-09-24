@@ -138,7 +138,7 @@ const Schedule = () => {
           <h2 className="section-title section-title-light">Event Schedule</h2>
           <div className="gold-bar" />
           <p className="schedule-intro">
-            September 6, 2026 &mdash; A full day of sessions. One unforgettable day.
+            September 26, 2026 &mdash; A full day of sessions. One unforgettable day.
           </p>
         </div>
 

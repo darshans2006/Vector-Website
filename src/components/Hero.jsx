@@ -21,7 +21,7 @@ const PenNibSVG = () => (
 );
 
 // Live countdown to event date
-const EVENT_DATE = new Date('2026-09-06T09:00:00+05:30');
+const EVENT_DATE = new Date('2026-09-26T09:00:00+05:30');
 
 function getTimeLeft() {
   const diff = EVENT_DATE - Date.now();
@@ -101,7 +101,7 @@ const Hero = () => {
 
 
           {/* Date badge */}
-          <div className="event-badge">September 6, 2026</div>
+          <div className="event-badge">September 26, 2026</div>
 
           {/* Main title — bold Oswald, logo-style */}
           <h1 className="hero-title-dark">
